@@ -1,2 +1,2 @@
 # IRIS-Dataset
-Using K Means
+Using K-Means
